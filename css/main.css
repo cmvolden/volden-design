@@ -22,6 +22,10 @@ Black 900 */
   max-width: 70px;
 }
 
+.banner {
+  border: 3px solid #FDB714;
+}
+
 h1 {
   font-family: 'Petrona', serif;
   font-weight: 700;
