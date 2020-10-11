@@ -39,11 +39,15 @@ h2 {
 
 h3 {
   font-family: 'Inter', sans-serif;
-  color: 
+  color:
 }
 
-.accent {
+.yellow {
   color: #FDB714;
+}
+
+.red {
+  color: #E83528;
 }
 
 .header-name {
@@ -54,13 +58,25 @@ h3 {
   text-align: center;
 }
 
-.fixed {
+.arrow {
+  border: solid #E83528;
+  border-width: 0 4px 4px 0;
+  display: inline-block;
+  padding: 10px;
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+
+/* .fixed {
   overflow: hidden;
   background-color: #F3EDE8;
   position: fixed;
   top: 0;
   width: 100%;
-}
+} */
 
 li a {
   font-family: 'Inter', sans-serif;
@@ -71,6 +87,10 @@ li a {
 
 nav a:hover {
   color: #004a7c;
+}
+
+.current {
+  border-bottom: 3px solid #004a7c;
 }
 
 /* main {
