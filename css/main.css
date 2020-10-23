@@ -24,7 +24,7 @@ Black 900 */
 
 .main-banner {
   border: 3px solid #FDB714;
-  background-color: #f2f2f2;
+  /* background-color: #f2f2f2; */
 }
 
 h1 {
@@ -122,6 +122,10 @@ dt {
 
 .about-section2 {
   background-color: #fff;
+}
+
+.contact-form {
+  max-width: 500px;
 }
 
 footer {
