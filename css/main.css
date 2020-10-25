@@ -43,7 +43,7 @@ h3 {
   color:
 }
 
-.underline-header {
+.topborder {
   border-top: 3px solid #7D716D;
 }
 
@@ -112,15 +112,19 @@ nav a:hover,
 } */
 
 dt {
-  color: #E83528;
+  color: #000;
   font-weight: bold;
+}
+
+dd {
+  font-family: 'Petrona', serif;
 }
 
 .descrip {
   color: #0b0b0c;
 }
 
-.about-section2 {
+.white-bg {
   background-color: #fff;
 }
 
