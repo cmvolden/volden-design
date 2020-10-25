@@ -1,6 +1,6 @@
 html {
   background-color: #F3EDE8;
-  color: #7D716D;
+  color: #0b0b0c;
   font-family: 'Inter', sans-serif;
 }
 
@@ -30,7 +30,7 @@ Black 900 */
 h1 {
   font-family: 'Petrona', serif;
   font-weight: 700;
-  color: #7D716D;
+  color: #0b0b0c;
 }
 
 h2 {
@@ -112,7 +112,7 @@ nav a:hover,
 } */
 
 dt {
-  color: #000;
+  color: #7D716D;
   font-weight: bold;
 }
 
@@ -120,9 +120,9 @@ dd {
   font-family: 'Petrona', serif;
 }
 
-.descrip {
+/* .descrip {
   color: #0b0b0c;
-}
+} */
 
 .white-bg {
   background-color: #fff;
