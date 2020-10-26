@@ -130,6 +130,13 @@ thead th {
   width: 100%;
 }
 
+.wrapper-small {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 26em;
+  width: 100%;
+}
+
 .wrapper-no-center {
   max-width: 52em;
   width: 100%;
