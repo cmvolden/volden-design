@@ -136,6 +136,10 @@ dd {
   max-width: 500px;
 }
 
+.no-border {
+  border: none;
+}
+
 footer {
   border-top: 3px solid #FDB714;
 }
