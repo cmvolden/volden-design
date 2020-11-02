@@ -24,6 +24,10 @@
 </head>
 
 <body>
+  <ul class="skip-links">
+    <li><a href="#nav">Jump to navigation content</a></li>
+    <li><a href="#main">Jump to main content</a></li>
+  </ul>
 
   <header class="island-1-2">
     <div class="grid grid-middle gutter-1-2">
@@ -33,7 +37,7 @@
       </div>
 
       <div class="header-nav unit xs-1 s-1 m-1-2 l-1-2">
-        <nav>
+        <nav role="navigation" id="nav">
           <ul class="list-group-inline push-0">
             <li class="island-1-4 nano"><a href="work.html">work</a></li>
             <li class="island-1-4 nano"><a href="about.html">about</a></li>
@@ -56,7 +60,7 @@
     <video class="embed-item" src="video/logo-banner.mp4" autoplay muted loop></video>
   </div>
 
-  <main class="gutter pad-t">
+  <main class="gutter pad-t" role="main">
 
     <div class="main-banner text-center wrapper island-3-4">
       <h1 class="push-1-2">Print, Web, UI/UX... you got it.</h1>
