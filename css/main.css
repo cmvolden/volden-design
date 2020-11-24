@@ -23,8 +23,8 @@ Black 900 */
 }
 
 .main-banner {
-  border: 3px solid #FDB714;
-  /* background-color: #f2f2f2; */
+  /* border: 3px solid #FDB714; */
+  background-color: #FDB714;
 }
 
 h1 {
@@ -130,6 +130,10 @@ dd {
 
 .yellow-bg {
   background-color: #FDB714;
+}
+
+.card-photo {
+  max-width: 500px;
 }
 
 .tip {
