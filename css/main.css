@@ -132,6 +132,10 @@ dd {
   background-color: #FDB714;
 }
 
+.grey-bg {
+  background-color: #7D716D;
+}
+
 .card-photo {
   max-width: 500px;
 }
