@@ -4,6 +4,10 @@ html {
   font-family: 'Inter', sans-serif;
 }
 
+main {
+  background-color: #fff;
+}
+
 /* font-family: 'Inter', sans-serif;
 font-family: 'Petrona', serif;
 
@@ -25,6 +29,12 @@ Black 900 */
 .main-banner {
   /* border: 3px solid #FDB714; */
   background-color: #FDB714;
+  border-radius: 25px;
+}
+
+.home-card {
+  background-color: #F3EDE8;
+  border-radius: 25px;
 }
 
 h1 {
