@@ -26,10 +26,18 @@ Black 900 */
   max-width: 70px;
 }
 
+.home-banner {
+  background-image: url("../images/main.png");
+  background-size: cover;
+  min-height: 45em;
+  background-position: center bottom;
+}
+
 .main-banner {
   /* border: 3px solid #FDB714; */
   background-color: #FDB714;
   border-radius: 25px;
+  max-width: 50em;
 }
 
 .home-card {
@@ -97,12 +105,12 @@ li a {
   font-family: 'Inter', sans-serif;
   font-weight: 400;
   text-decoration: none;
-  color: #7D716D;
+  color: #004a7c;
 }
 
 nav a:hover,
 .end-options a:hover {
-  color: #004a7c;
+  color: #E83528;
 }
 
 .current {
