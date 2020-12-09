@@ -40,6 +40,13 @@ Black 900 */
   max-width: 50em;
 }
 
+.hello-banner {
+  background-color: rgba(255, 255, 255, 0.8);
+  color: #004a7c;
+  border-radius: 25px;
+  max-width: 50em;
+}
+
 .home-card {
   background-color: #F3EDE8;
   border-radius: 25px;
